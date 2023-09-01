@@ -1,0 +1,94 @@
+body{
+    padding: 0;
+    font-family: serif;
+}
+.container{
+    width: 100%;
+    margin: 5px;
+    border: 5px solid pink;
+    border-radius: 10px;
+}
+.pondy img{
+   width: 100%;
+   height: 500px;
+
+}
+.pondy{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    right: 25%;
+    text-align: center;
+}
+.text h1{
+    background-color: grey;
+    border-radius: 5px;
+    width: 250px;
+    margin-left: 35%;
+}
+.text p{
+    background-color: aqua;
+    padding: 4px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.images img{
+    border-radius: 50%;
+    width: 250px;
+    margin: 5px 20px;
+    margin-left: 125px;
+}
+.merina img{
+    height: 184px;
+}
+.images h2, p{
+    text-align: center;
+    margin: 0px 25px;
+}
+.beach h2{
+    margin-right: 60px;
+}
+.park h2{
+    margin-right: 45px;
+}
+.merina h2{
+    margin-left: 75px;
+}
+.bodycontent h2{
+    text-align: center;
+}
+.bodycontent{
+    background-color: lightblue;
+    margin-top: 0;
+}
+.footer{
+    margin: 50px;
+    margin-left: 500px;
+}
+.card{
+    width: 500px;
+    height: 200px;
+    border: 1px dotted rgb(35, 137, 196);
+    display: flex;
+    padding: 5px;
+    background: linear-gradient(45deg, purple, rgb(15, 103, 235));
+    justify-content: space-around;
+    border-radius: 20px;
+}
+.content{
+    font-size: x-large;
+    color: aqua;
+    text-align: center;
+}
+.hardik{
+    border-radius: 10px;
+}
