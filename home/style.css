@@ -79,16 +79,16 @@ body{
     height: 200px;
     border: 1px dotted rgb(35, 137, 196);
     display: flex;
-    padding: 5px;
+    padding: 0 5px;
     background: linear-gradient(45deg, purple, rgb(15, 103, 235));
     justify-content: space-around;
     border-radius: 20px;
 }
 .content{
-    font-size: x-large;
     color: aqua;
     text-align: center;
 }
 .hardik{
     border-radius: 10px;
+    padding: 5px;
 }
